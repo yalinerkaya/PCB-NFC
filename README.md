@@ -8,6 +8,7 @@
 ### 无原理，地图就是原理
 
 ### [嘉立创开源链接](https://oshwhub.com/era-yes/tai-zhou-lu-qiao-zhong-xue-pcb-nfc-xiao-yuan-ka)
+### [在线编辑器](https://pro.lceda.cn/editor#id=a84dde7ac0c249679c607b19cff67770)
 
 ![](https://github.com/ERA-YES/-PCB-NFC-/blob/main/%E5%B0%81%E9%9D%A2.png?raw=true)
 ![校徽](https://github.com/ERA-YES/-PCB-NFC-/blob/main/%E6%A0%A1%E5%BE%BD.jpg?raw=true)
